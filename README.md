@@ -1,3 +1,16 @@
+# DISCLAIMER / ARCHIVED
+
+This repository is no longer maintained. The repository is maintained and developed at [inclusion-international/speech-jokey](https://github.com/inclusion-international/speech-jokey).
+
+Since the main repository moved away from my personal repository to the fork, I am archiving this repository.
+
+I cannot make changes on an upstream repository and PR it back into the forks, without constant issues.
+
+Additionally, I wanted to create a new fork of the new main repository, so that I can submit PRs.
+
+----
+----
+
 # Speech Jokey
 
 This project is about building an application which synthesises speech from user-provided text. The application is written in Python and uses the [Kivy](https://kivy.org/#home) framework for the user interface.
